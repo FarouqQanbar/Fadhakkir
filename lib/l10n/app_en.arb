@@ -1,0 +1,31 @@
+{
+  "@@locale": "en",
+  "appTitle": "Fadhakkir",
+  "homeHeader": "Fadhakkir",
+  "homeHeaderSubtitle": "Companion for good and supplication",
+  "homeGreeting": "Peace be upon you\nMay today's reminder bring good",
+
+  "heroTitle": "Today's Good Deed",
+  "heroSubtitle": "Reach out today to someone you haven't spoken to in a while",
+  "actionDone": "Done",
+  "actionOtherGood": "Another Good Deed",
+
+  "featureDuaTitle": "Dua for This Moment",
+  "featureDuaSubtitle": "Find a dua suited to how you feel right now",
+  "featureRememberTitle": "Remember Someone",
+  "featureRememberSubtitle": "Include someone you love in your prayers",
+  "featureIdeasTitle": "Khayr Ideas",
+  "featureIdeasSubtitle": "Simple suggestions for acts of kindness",
+
+  "bottomHome": "Home",
+  "bottomSaved": "Saved",
+  "bottomSettings": "Settings"
+  ,
+  "settingsTitle": "Settings",
+  "settingsLanguage": "Language",
+  "langSystem": "System",
+  "langEnglish": "English",
+  "langArabic": "Arabic",
+  "savedEmpty": "No saved items yet."
+}
+

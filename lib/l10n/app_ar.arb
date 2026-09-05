@@ -1,0 +1,31 @@
+{
+  "@@locale": "ar",
+  "appTitle": "فَذَكِّر",
+  "homeHeader": "فَذَكِّر",
+  "homeHeaderSubtitle": "رفيق الخير والدعاء",
+  "homeGreeting": "السلام عليكم\nلعلّ في تذكير اليوم خيرًا",
+
+  "heroTitle": "خير اليوم",
+  "heroSubtitle": "تواصل اليوم مع قريب لم تتحدث معه منذ مدة",
+  "actionDone": "أتممتها",
+  "actionOtherGood": "خير آخر",
+
+  "featureDuaTitle": "دعاء اللحظة",
+  "featureDuaSubtitle": "ابحث عن دعاء لحالتك الآن",
+  "featureRememberTitle": "ادعُ لهم",
+  "featureRememberSubtitle": "تذكّر من تحب في دعائك",
+  "featureIdeasTitle": "أفكار خير",
+  "featureIdeasSubtitle": "اقتراحات بسيطة لفعل الخير",
+
+  "bottomHome": "الرئيسية",
+  "bottomSaved": "المحفوظات",
+  "bottomSettings": "الإعدادات"
+  ,
+  "settingsTitle": "الإعدادات",
+  "settingsLanguage": "اللغة",
+  "langSystem": "النظام",
+  "langEnglish": "English",
+  "langArabic": "العربية",
+  "savedEmpty": "لا توجد عناصر محفوظة بعد."
+}
+

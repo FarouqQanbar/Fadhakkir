@@ -113,13 +113,13 @@ abstract class AppLocalizations {
   /// No description provided for @homeHeaderSubtitle.
   ///
   /// In en, this message translates to:
-  /// **'Companion for good and supplication'**
+  /// **'Khayr & Dua Companion'**
   String get homeHeaderSubtitle;
 
   /// No description provided for @homeGreeting.
   ///
   /// In en, this message translates to:
-  /// **'Peace be upon you\nMay today\'s reminder bring good'**
+  /// **'Peace be upon you — may today\'s reminder bring goodness.'**
   String get homeGreeting;
 
   /// No description provided for @heroTitle.
@@ -235,6 +235,108 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'No saved items yet.'**
   String get savedEmpty;
+
+  /// No description provided for @welcomeSubtitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Khayr & Dua Companion'**
+  String get welcomeSubtitle;
+
+  /// No description provided for @welcomeSupport.
+  ///
+  /// In en, this message translates to:
+  /// **'Simple reminders to help you make dua and do good throughout your day.'**
+  String get welcomeSupport;
+
+  /// No description provided for @welcomeCTA.
+  ///
+  /// In en, this message translates to:
+  /// **'Get Started'**
+  String get welcomeCTA;
+
+  /// No description provided for @chooseLanguageTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Choose your language'**
+  String get chooseLanguageTitle;
+
+  /// No description provided for @continueButton.
+  ///
+  /// In en, this message translates to:
+  /// **'Continue'**
+  String get continueButton;
+
+  /// No description provided for @addressStyleTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'How would you like us to address you?'**
+  String get addressStyleTitle;
+
+  /// No description provided for @addressStyleExplanation.
+  ///
+  /// In en, this message translates to:
+  /// **'This only affects Arabic wording. Your choice stays on your device.'**
+  String get addressStyleExplanation;
+
+  /// No description provided for @addressMasculine.
+  ///
+  /// In en, this message translates to:
+  /// **'تذكّر'**
+  String get addressMasculine;
+
+  /// No description provided for @addressFeminine.
+  ///
+  /// In en, this message translates to:
+  /// **'تذكّري'**
+  String get addressFeminine;
+
+  /// No description provided for @notificationsTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Gentle reminders, when you need them'**
+  String get notificationsTitle;
+
+  /// No description provided for @notificationsIntro.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable the reminders you\'d like to receive. You can change these later.'**
+  String get notificationsIntro;
+
+  /// No description provided for @featureTodayGood.
+  ///
+  /// In en, this message translates to:
+  /// **'Today\'s Good Deed'**
+  String get featureTodayGood;
+
+  /// No description provided for @enableReminders.
+  ///
+  /// In en, this message translates to:
+  /// **'Enable Reminders'**
+  String get enableReminders;
+
+  /// No description provided for @notNow.
+  ///
+  /// In en, this message translates to:
+  /// **'Not Now'**
+  String get notNow;
+
+  /// No description provided for @notificationsPrivacyNote.
+  ///
+  /// In en, this message translates to:
+  /// **'We will only use reminders locally on your device.'**
+  String get notificationsPrivacyNote;
+
+  /// No description provided for @languageArabicLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'العربية'**
+  String get languageArabicLabel;
+
+  /// No description provided for @languageEnglishLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'English'**
+  String get languageEnglishLabel;
 }
 
 class _AppLocalizationsDelegate

@@ -2,8 +2,8 @@
   "@@locale": "en",
   "appTitle": "Fadhakkir",
   "homeHeader": "Fadhakkir",
-  "homeHeaderSubtitle": "Companion for good and supplication",
-  "homeGreeting": "Peace be upon you\nMay today's reminder bring good",
+  "homeHeaderSubtitle": "Khayr & Dua Companion",
+  "homeGreeting": "Peace be upon you — may today's reminder bring goodness.",
 
   "heroTitle": "Today's Good Deed",
   "heroSubtitle": "Reach out today to someone you haven't spoken to in a while",
@@ -27,5 +27,27 @@
   "langEnglish": "English",
   "langArabic": "Arabic",
   "savedEmpty": "No saved items yet."
+  ,
+  "welcomeSubtitle": "Khayr & Dua Companion",
+  "welcomeSupport": "Simple reminders to help you make dua and do good throughout your day.",
+  "welcomeCTA": "Get Started"
+  ,
+  "chooseLanguageTitle": "Choose your language",
+  "continueButton": "Continue",
+
+  "addressStyleTitle": "How would you like us to address you?",
+  "addressStyleExplanation": "This only affects Arabic wording. Your choice stays on your device.",
+  "addressMasculine": "تذكّر",
+  "addressFeminine": "تذكّري",
+
+  "notificationsTitle": "Gentle reminders, when you need them",
+  "notificationsIntro": "Enable the reminders you'd like to receive. You can change these later.",
+  "featureTodayGood": "Today's Good Deed",
+  "enableReminders": "Enable Reminders",
+  "notNow": "Not Now",
+  "notificationsPrivacyNote": "We will only use reminders locally on your device."
+  ,
+  "languageArabicLabel": "العربية",
+  "languageEnglishLabel": "English"
 }
 

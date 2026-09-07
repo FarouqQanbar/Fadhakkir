@@ -27,5 +27,27 @@
   "langEnglish": "English",
   "langArabic": "العربية",
   "savedEmpty": "لا توجد عناصر محفوظة بعد."
+  ,
+  "welcomeSubtitle": "رفيق الخير والدعاء",
+  "welcomeSupport": "تذكيرات بسيطة تعينك على الدعاء وفعل الخير في يومك.",
+  "welcomeCTA": "ابدأ"
+  ,
+  "chooseLanguageTitle": "اختر لغتك",
+  "continueButton": "التالي",
+
+  "addressStyleTitle": "كيف تفضّل أن نخاطبك؟",
+  "addressStyleExplanation": "يؤثر هذا فقط على صيغة الخطاب العربية، ويبقى اختيارك على جهازك.",
+  "addressMasculine": "تذكّر",
+  "addressFeminine": "تذكّري",
+
+  "notificationsTitle": "تذكيرات لطيفة، حين تحتاجها",
+  "notificationsIntro": "فعّل التذكيرات التي تودّ تلقّيها. يمكنك تغييرها لاحقًا.",
+  "featureTodayGood": "خير اليوم",
+  "enableReminders": "تفعيل التذكيرات",
+  "notNow": "ليس الآن",
+  "notificationsPrivacyNote": "سنستخدم التذكيرات محليًا على جهازك فقط."
+  ,
+  "languageArabicLabel": "العربية",
+  "languageEnglishLabel": "English"
 }
 

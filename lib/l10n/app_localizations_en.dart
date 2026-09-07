@@ -15,11 +15,11 @@ class AppLocalizationsEn extends AppLocalizations {
   String get homeHeader => 'Fadhakkir';
 
   @override
-  String get homeHeaderSubtitle => 'Companion for good and supplication';
+  String get homeHeaderSubtitle => 'Khayr & Dua Companion';
 
   @override
   String get homeGreeting =>
-      'Peace be upon you\nMay today\'s reminder bring good';
+      'Peace be upon you — may today\'s reminder bring goodness.';
 
   @override
   String get heroTitle => 'Today\'s Good Deed';
@@ -80,4 +80,59 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get savedEmpty => 'No saved items yet.';
+
+  @override
+  String get welcomeSubtitle => 'Khayr & Dua Companion';
+
+  @override
+  String get welcomeSupport =>
+      'Simple reminders to help you make dua and do good throughout your day.';
+
+  @override
+  String get welcomeCTA => 'Get Started';
+
+  @override
+  String get chooseLanguageTitle => 'Choose your language';
+
+  @override
+  String get continueButton => 'Continue';
+
+  @override
+  String get addressStyleTitle => 'How would you like us to address you?';
+
+  @override
+  String get addressStyleExplanation =>
+      'This only affects Arabic wording. Your choice stays on your device.';
+
+  @override
+  String get addressMasculine => 'تذكّر';
+
+  @override
+  String get addressFeminine => 'تذكّري';
+
+  @override
+  String get notificationsTitle => 'Gentle reminders, when you need them';
+
+  @override
+  String get notificationsIntro =>
+      'Enable the reminders you\'d like to receive. You can change these later.';
+
+  @override
+  String get featureTodayGood => 'Today\'s Good Deed';
+
+  @override
+  String get enableReminders => 'Enable Reminders';
+
+  @override
+  String get notNow => 'Not Now';
+
+  @override
+  String get notificationsPrivacyNote =>
+      'We will only use reminders locally on your device.';
+
+  @override
+  String get languageArabicLabel => 'العربية';
+
+  @override
+  String get languageEnglishLabel => 'English';
 }

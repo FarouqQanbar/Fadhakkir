@@ -30,6 +30,14 @@ class AppTheme {
         foregroundColor: colorScheme.onPrimary,
         elevation: 0,
       ),
+      scaffoldBackgroundColor: colorScheme.surface,
+      // Slightly richer card defaults for a premium look
+      cardTheme: CardThemeData(
+        color: colorScheme.surface,
+        shape: RoundedRectangleBorder(borderRadius: AppRadius.medium),
+        elevation: 4,
+        margin: const EdgeInsetsDirectional.only(bottom: AppSpacing.md),
+      ),
       elevatedButtonTheme: ElevatedButtonThemeData(
         style: ElevatedButton.styleFrom(
           backgroundColor: colorScheme.primary,
@@ -41,21 +49,21 @@ class AppTheme {
           ),
         ),
       ),
-      cardTheme: CardThemeData(
-        color: colorScheme.surface,
-        shape: RoundedRectangleBorder(borderRadius: AppRadius.medium),
-        elevation: 2,
-        margin: const EdgeInsetsDirectional.only(bottom: AppSpacing.md),
-      ),
+      // Bottom navigation icon styling for better polish
       bottomNavigationBarTheme: BottomNavigationBarThemeData(
         backgroundColor: colorScheme.surface,
         selectedItemColor: colorScheme.primary,
         unselectedItemColor: colorScheme.onSurface.withAlpha(
           (0.7 * 255).round(),
         ),
-        elevation: 4,
+        selectedIconTheme: IconThemeData(size: 24, color: colorScheme.primary),
+        unselectedIconTheme: IconThemeData(
+          size: 20,
+          color: colorScheme.onSurface.withAlpha((0.7 * 255).round()),
+        ),
+        showUnselectedLabels: true,
+        elevation: 6,
       ),
-      scaffoldBackgroundColor: colorScheme.surface,
     );
   }
 
